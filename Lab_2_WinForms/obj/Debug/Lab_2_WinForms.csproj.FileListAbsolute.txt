@@ -1,0 +1,9 @@
+F:\Курс_3_Семестр_1\СПП\Lab_2_WinForms\bin\Debug\Lab_2_WinForms.exe.config
+F:\Курс_3_Семестр_1\СПП\Lab_2_WinForms\bin\Debug\Lab_2_WinForms.exe
+F:\Курс_3_Семестр_1\СПП\Lab_2_WinForms\bin\Debug\Lab_2_WinForms.pdb
+F:\Курс_3_Семестр_1\СПП\Lab_2_WinForms\obj\Debug\Lab_2_WinForms.csprojAssemblyReference.cache
+F:\Курс_3_Семестр_1\СПП\Lab_2_WinForms\obj\Debug\Lab_2_WinForms.exe
+F:\Курс_3_Семестр_1\СПП\Lab_2_WinForms\obj\Debug\Lab_2_WinForms.pdb
+F:\Курс_3_Семестр_1\СПП\Lab_2_WinForms\obj\Debug\Lab_2_WinForms.MainForm.resources
+F:\Курс_3_Семестр_1\СПП\Lab_2_WinForms\obj\Debug\Lab_2_WinForms.csproj.GenerateResource.cache
+F:\Курс_3_Семестр_1\СПП\Lab_2_WinForms\obj\Debug\Lab_2_WinForms.csproj.CoreCompileInputs.cache

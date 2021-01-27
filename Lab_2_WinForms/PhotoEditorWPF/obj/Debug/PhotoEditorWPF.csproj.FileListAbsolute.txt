@@ -1,0 +1,14 @@
+F:\Курс_3_Семестр_1\СПП\Lab_2_WinForms\PhotoEditorWPF\bin\Debug\PhotoEditorWPF.exe.config
+F:\Курс_3_Семестр_1\СПП\Lab_2_WinForms\PhotoEditorWPF\bin\Debug\PhotoEditorWPF.exe
+F:\Курс_3_Семестр_1\СПП\Lab_2_WinForms\PhotoEditorWPF\bin\Debug\PhotoEditorWPF.pdb
+F:\Курс_3_Семестр_1\СПП\Lab_2_WinForms\PhotoEditorWPF\obj\Debug\PhotoEditorWPF.csprojAssemblyReference.cache
+F:\Курс_3_Семестр_1\СПП\Lab_2_WinForms\PhotoEditorWPF\obj\Debug\MainWindow.baml
+F:\Курс_3_Семестр_1\СПП\Lab_2_WinForms\PhotoEditorWPF\obj\Debug\MainWindow.g.cs
+F:\Курс_3_Семестр_1\СПП\Lab_2_WinForms\PhotoEditorWPF\obj\Debug\App.g.cs
+F:\Курс_3_Семестр_1\СПП\Lab_2_WinForms\PhotoEditorWPF\obj\Debug\PhotoEditorWPF_MarkupCompile.cache
+F:\Курс_3_Семестр_1\СПП\Lab_2_WinForms\PhotoEditorWPF\obj\Debug\PhotoEditorWPF.g.resources
+F:\Курс_3_Семестр_1\СПП\Lab_2_WinForms\PhotoEditorWPF\obj\Debug\PhotoEditorWPF.Properties.Resources.resources
+F:\Курс_3_Семестр_1\СПП\Lab_2_WinForms\PhotoEditorWPF\obj\Debug\PhotoEditorWPF.csproj.GenerateResource.cache
+F:\Курс_3_Семестр_1\СПП\Lab_2_WinForms\PhotoEditorWPF\obj\Debug\PhotoEditorWPF.csproj.CoreCompileInputs.cache
+F:\Курс_3_Семестр_1\СПП\Lab_2_WinForms\PhotoEditorWPF\obj\Debug\PhotoEditorWPF.exe
+F:\Курс_3_Семестр_1\СПП\Lab_2_WinForms\PhotoEditorWPF\obj\Debug\PhotoEditorWPF.pdb
